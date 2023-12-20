@@ -1,4 +1,4 @@
-# DL_Assignment Hemant D 4NI20IS043
+
 Topic: Tangent Distance
 
 Tangent Distance is a concept used in machine learning, particularly in the field of pattern recognition and classification. It is a distance metric that measures the dissimilarity between two objects in a feature space. Tangent Distance is often employed in conjunction with tangent vectors, which represent the local geometry of data points in the feature space.
